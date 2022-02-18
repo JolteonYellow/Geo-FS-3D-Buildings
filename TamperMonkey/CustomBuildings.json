@@ -320,5 +320,11 @@
   "rotation": [90, 0, 0],
   "scale": [0.76, 0.76, 0.76],
   "type": "airport"
+}, {
+  "name": "London City",
+  "url": "",
+  "position": [51.507469, 0.045370, 0],
+  "rotation": [0, 0, 0],
+  "scale": [1, 1, 1],
+  "type": "airport"
 }]
-
